@@ -3,7 +3,7 @@
 - 🌱 Currently delving into Machine Learning while focusing on Data Analytics
 - 💞️ Open to collaborating on exciting projects related to Data Analytics, Predictive Modeling, or Consultancy
 - 🎥 I also run a YouTube channel: [Just Learn with Amaan](https://www.youtube.com/@JustlearnwithAmaan), where I share educational content
-- 📫 Connect with me on LinkedIn: www.linkedin.com/in/amaan-mohammad-93611b259
+- 📫 Connect with me on LinkedIn: [Amaan Mohammad](www.linkedin.com/in/amaan-mohammad-93611b259)
 
 
 <!---
