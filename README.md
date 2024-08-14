@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @amaantayyab
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning and Deep learning
-- 💞️ I’m looking to collaborate on projects related to Data Science and Machine learning
-- 📫 How to reach me Linkedin (www.linkedin.com/in/
-amaan-mohammad-93611b259)
+👋 Hi, I’m @amaantayyab
+👀 I’m passionate about Data Analytics and exploring the world of Machine Learning
+🌱 Currently delving into Machine Learning while focusing on Data Analytics
+💞️ Open to collaborating on exciting projects related to Data Analytics, Predictive Modeling, or Consultancy
+🎥 I also run a YouTube channel: Just Learn with Amaan, where I share educational content
+📫 Connect with me on LinkedIn: www.linkedin.com/in/amaan-mohammad-93611b259
+
 
 
 <!---
